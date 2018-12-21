@@ -1,0 +1,11 @@
+{
+  "name": "helloword",
+  "version": "1.0.0",
+  "description": "first app using react-native",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramon Victor",
+  "license": "ISC"
+}
